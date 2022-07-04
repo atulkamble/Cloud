@@ -1,5 +1,4 @@
 # cloud
-# cloud
 Cloud Computing
 
 
