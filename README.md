@@ -1,8 +1,6 @@
 # Cloud Computing
 
 [Link to Join Discussions](https://meet.google.com/bhw-oktu-djt)
-Cloud Computing
-
 
 # Lecture 1
 - google fascillator program 
