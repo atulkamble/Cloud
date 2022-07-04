@@ -1,4 +1,6 @@
-# cloud
+# Cloud Computing
+
+[Link to Join Discussions](https://meet.google.com/bhw-oktu-djt)
 Cloud Computing
 
 
