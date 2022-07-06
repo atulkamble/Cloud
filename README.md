@@ -20,3 +20,7 @@
 - types of cloud
 - depending on architecture 
 - iaas saas pass, private, public 
+
+# Lecture 2 
+- EC2
+- 
