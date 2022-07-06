@@ -23,4 +23,4 @@
 
 # Lecture 2 
 - EC2
-- 
+- [https://linuxjourney.com/](https://linuxjourney.com/)
