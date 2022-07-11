@@ -1,0 +1,6 @@
+we are in mit.
+
+hello user.
+welcome to linux practice.
+
+this is text in [A] file.
