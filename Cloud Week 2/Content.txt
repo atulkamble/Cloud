@@ -1,0 +1,19 @@
+Putty Download
+Puttygen
+
+cmd>powershell>Windows Terminal
+
+Join EC2 Linux from Putty
+
+-----------------------
+Connecting Windows
+-----------------------
+cmd> mstsc
+ipv6
+Administrator
+-----------------------
+
+Generate Password
+Connect EC2 Windows by RDP
+
+Delete Resources | Info
