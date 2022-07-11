@@ -1,3 +1,6 @@
+Install Windows Terminal
+Upgrade Powershell
+
 Putty Download
 Puttygen
 
